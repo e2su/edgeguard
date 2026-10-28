@@ -1,0 +1,5 @@
+.venv/
+data/
+*.pkl
+*.joblib
+__pycache__/
